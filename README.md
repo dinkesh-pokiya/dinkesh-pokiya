@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dinkesh-pokiya
 - 👀 I’m interested in odoo and python development
 - 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on odoo related proect
+- 💞️ I’m looking to collaborate on odoo related project
 - 📫 How to reach me dinkeshpokiya36@gmail.com
 - 😄 Pronouns: dinkesh
 - ⚡ Fun fact: ...
